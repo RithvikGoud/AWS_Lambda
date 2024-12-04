@@ -1,4 +1,4 @@
-#Serverless Application for CSV Data Processing
+# Serverless Application for CSV Data Processing
 
 ## Project Overview
 This project demonstrates how to create a serverless application on AWS that processes user-uploaded CSV files. The solution leverages AWS services such as **S3**, **Lambda**, and **DynamoDB** to implement a pipeline where:
